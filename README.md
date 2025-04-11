@@ -23,5 +23,5 @@ Contribuições e críticas construtivas são bem-vindas!
 
 ## 📚 Tutorial de Referência  
 Este projeto foi criado seguindo o tutorial:  
-🎥 **["Tetris Style "Falling Blocks" Game In Unreal Engine 5" por Canal BuildGamesWithJon]([https://youtube.com/playlist?list=PLPpgDoSBYYWgoP2F3MhxUYsCkd84vPfMw&si=RLM-y_GX833SKumM]([url](https://youtube.com/playlist?list=PLPpgDoSBYYWgoP2F3MhxUYsCkd84vPfMw&si=RLM-y_GX833SKumM)))**  
+🎥 **[["Tetris Style "Falling Blocks" Game In Unreal Engine 5" por Canal BuildGamesWithJon]]([url](https://youtube.com/playlist?list=PLPpgDoSBYYWgoP2F3MhxUYsCkd84vPfMw&si=puNUKU2uQlUEu8BN))**  
 *(Nota: Confesso que não fiz nenhuma adaptação/melhoria, pois o propósito por enquanto é apenas aprender)*  
