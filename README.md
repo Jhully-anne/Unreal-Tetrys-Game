@@ -9,7 +9,8 @@ Tetris desenvolvoido no Unreal Engine 5.4.4
 - C++ (para lógica de movimento)  
 
 ## ✨ Como Executar  
-1. Baixe o executável acima e se divirta
+1. [[🎮 **Download Aqui**]]([url](https://github.com/Jhully-anne/Unreal-Tetrys-Game/releases/tag/v1.0))
+2. Baixe o executável acima e se divirta
 
 ## 📌 Nota do Desenvolvedor  
 Este projeto é um **teste inicial** em Unreal Engine 5.  
